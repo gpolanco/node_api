@@ -1,0 +1,25 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "Api REST usando Node y Express 4",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log(\"hola\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpolanco/node_api.git"
+  },
+  "author": "Geordano Polanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpolanco/node_api/issues"
+  },
+  "homepage": "https://github.com/gpolanco/node_api#readme",
+
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1"
+  }
+}

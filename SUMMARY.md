@@ -4,5 +4,5 @@
 
 ## React js
 
-* [COnfigure react](react-js/configure-react.md)
+* [Configurar react desde cero con WebPack y Babel](react-js/configure-react.md)
 
